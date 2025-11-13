@@ -1,67 +1,89 @@
-Sou um estudante de Engenharia Informática com interesse em **desenvolvimento de software**, **cibersegurança** e **inteligência artificial**.
+# Hey 👋
+
+Estudante de Engenharia Informática com interesse em **desenvolvimento de software**, **cibersegurança** e **inteligência artificial**.
 
 ---
 
-## 🚀 Linguagens e Tecnologias
-
-💻 **Linguagens:**  
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-
-🧰 **Ferramentas & Plataformas:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
----
-
-## 📊 Estatísticas do GitHub
+## Tech Stack
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=c0m1x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0m1x&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<table>
+<tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+        <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+        <br>Java
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+        <br>C
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+        <br>C#
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+        <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=haskell" width="48" height="48" alt="Haskell" />
+        <br>Haskell
+    </td>
+</tr>
+<tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+        <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+        <br>CSS3
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+        <br>VS Code
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+        <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+        <br>Linux
+    </td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🏆 Troféus GitHub
+## GitHub Stats
 
 <div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=c0m1x&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0m1x&layout=compact&theme=dark&hide_border=true&langs_count=8"/>
+</div>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=c0m1x&theme=onedark&margin-w=10&margin-h=10)
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=c0m1x&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+</div>
 
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=c0m1x&theme=github-compact&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
 
-## 📈 Atividade Recente
+## Contact
 
-<div align="center">
-
-![Atividade recente](https://github-readme-activity-graph.vercel.app/graph?username=c0m1x&theme=tokyo-night&hide_border=true)
-
-</div>
-
----
-
-## 🌐 Contacta-me
-
-✉️ **Email:** [tiago1010martins@gmail.com](mailto:tiago1010martins@exemplo.com)  
-
-
----
-
-
-⭐️ *Obrigado por visitares o meu perfil!*
+**Email:** [tiago1010martins@gmail.com](mailto:tiago1010martins@gmail.com)
