@@ -70,16 +70,10 @@ Estudante de Engenharia Informática com interesse em **desenvolvimento de softw
 ## GitHub Stats
 
 <div align="center">
-  <img 
-       height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=c0m1x&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true"
-  />
-
-  <img 
-       height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0m1x&theme=dark&hide_border=true&langs_count=10&count_private=true&layout=compact&card_width=350"
-  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=c0m1x&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0m1x&layout=compact&theme=dark&hide_border=true&langs_count=8"/>
 </div>
+
 
 
 <div align="center">
