@@ -78,11 +78,6 @@ Estudante de Engenharia Informática com interesse em **desenvolvimento de softw
     <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code" />
         <br><strong>VS Code</strong>
-    </td>
-    <td align="center" width="100">
-    </td>
-    <td align="center" width="100">
-    </td>
 </tr>
 </table>
 </div>
