@@ -1,5 +1,4 @@
 # Hey 👋
-
 Estudante de Engenharia Informática com interesse em **desenvolvimento de software**, **cibersegurança** e **inteligência artificial**.
 
 ---
@@ -7,62 +6,76 @@ Estudante de Engenharia Informática com interesse em **desenvolvimento de softw
 ## Tech Stack
 
 <div align="center">
-
 <table>
 <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-        <br>Python
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python" />
+        <br><strong>Python</strong>
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-        <br>Java
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java" />
+        <br><strong>Java</strong>
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-        <br>C
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=c" width="50" height="50" alt="C" />
+        <br><strong>C</strong>
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
-        <br>C#
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=cs" width="50" height="50" alt="C#" />
+        <br><strong>C#</strong>
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-        <br>JavaScript
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=go" width="50" height="50" alt="Go" />
+        <br><strong>Go</strong>
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=haskell" width="48" height="48" alt="Haskell" />
-        <br>Haskell
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript" />
+        <br><strong>JavaScript</strong>
     </td>
 </tr>
 <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-        <br>HTML5
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=haskell" width="50" height="50" alt="Haskell" />
+        <br><strong>Haskell</strong>
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-        <br>CSS3
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5" />
+        <br><strong>HTML5</strong>
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        <br>Git
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3" />
+        <br><strong>CSS3</strong>
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-        <br>VS Code
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
+        <br><strong>Git</strong>
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-        <br>Docker
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker" />
+        <br><strong>Docker</strong>
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-        <br>Linux
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Linux" />
+        <br><strong>Linux</strong>
+    </td>
+</tr>
+<tr>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code" />
+        <br><strong>VS Code</strong>
+    </td>
+    <td align="center" width="100">
+    </td>
+    <td align="center" width="100">
+    </td>
+    <td align="center" width="100">
+    </td>
+    <td align="center" width="100">
+    </td>
+    <td align="center" width="100">
     </td>
 </tr>
 </table>
-
 </div>
 
 ---
@@ -73,9 +86,6 @@ Estudante de Engenharia Informática com interesse em **desenvolvimento de softw
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=c0m1x&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true"/>
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0m1x&layout=compact&theme=dark&hide_border=true&langs_count=10&card_width=350"/>
 </div>
-
-
-
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=c0m1x&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
