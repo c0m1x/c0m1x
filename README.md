@@ -5,6 +5,8 @@ Estudante de Engenharia Informática com interesse em **desenvolvimento de softw
 
 ## Tech Stack
 
+### 💻 Linguagens
+
 <div align="center">
 <table>
 <tr>
@@ -47,6 +49,21 @@ Estudante de Engenharia Informática com interesse em **desenvolvimento de softw
         <br><strong>CSS3</strong>
     </td>
     <td align="center" width="100">
+    </td>
+    <td align="center" width="100">
+    </td>
+    <td align="center" width="100">
+    </td>
+</tr>
+</table>
+</div>
+
+### 🛠️ Ferramentas & Tecnologias
+
+<div align="center">
+<table>
+<tr>
+    <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
         <br><strong>Git</strong>
     </td>
@@ -58,17 +75,9 @@ Estudante de Engenharia Informática com interesse em **desenvolvimento de softw
         <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Linux" />
         <br><strong>Linux</strong>
     </td>
-</tr>
-<tr>
     <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code" />
         <br><strong>VS Code</strong>
-    </td>
-    <td align="center" width="100">
-    </td>
-    <td align="center" width="100">
-    </td>
-    <td align="center" width="100">
     </td>
     <td align="center" width="100">
     </td>
