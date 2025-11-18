@@ -48,12 +48,6 @@ Estudante de Engenharia Informática com interesse em **desenvolvimento de softw
         <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3" />
         <br><strong>CSS3</strong>
     </td>
-    <td align="center" width="100">
-    </td>
-    <td align="center" width="100">
-    </td>
-    <td align="center" width="100">
-    </td>
 </tr>
 </table>
 </div>
