@@ -80,35 +80,11 @@ Estudante de Engenharia Informática com interesse em **desenvolvimento de softw
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=c0m1x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c0m1x&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=c0m1x&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 📊 Activity
 
 <div align="center">
 
-[![c0m1x's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=c0m1x&theme=tokyo-night&hide_border=true)](https://github.com/c0m1x)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=c0m1x&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+[![c0m1x's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=c0m1x&theme=tokyo-night&hide_border=true&area=true)](https://github.com/c0m1x)
 
 </div>
 
@@ -117,9 +93,6 @@ Estudante de Engenharia Informática com interesse em **desenvolvimento de softw
 ## 📫 Contact
 
 **Email:** [tiago1010martins@gmail.com](mailto:tiago1010martins@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/c0m1x)
 
 ---
 
