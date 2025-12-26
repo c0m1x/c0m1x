@@ -82,27 +82,6 @@ Estudante de Engenharia Informática com interesse em **desenvolvimento de softw
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Followers](https://img.shields.io/github/followers/c0m1x?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/c0m1x?style=social)
-![Public Repos](https://img.shields.io/github/repos/c0m1x?style=social)
-
-</div>
-
----
-
-## Top Languages
-
-<div align="center">
-
-![Top Languages](https://img.shields.io/github/languages/top/c0m1x?theme=dark&label=Top%20Languages)
-
-</div>
-
----
 
 ## Activity
 
