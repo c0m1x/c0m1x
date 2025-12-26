@@ -53,6 +53,8 @@ Estudante de Engenharia Informática com interesse em **desenvolvimento de softw
 </table>
 </div>
 
+---
+
 ### Ferramentas & Tecnologias
 
 <div align="center">
@@ -76,6 +78,28 @@ Estudante de Engenharia Informática com interesse em **desenvolvimento de softw
     </td>
 </tr>
 </table>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=c0m1x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0m1x&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=c0m1x&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
