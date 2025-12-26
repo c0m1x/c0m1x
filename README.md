@@ -86,9 +86,9 @@ Estudante de Engenharia Informática com interesse em **desenvolvimento de softw
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=c0m1x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=c0m1x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0m1x&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0m1x&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
 </div>
 
@@ -98,7 +98,7 @@ Estudante de Engenharia Informática com interesse em **desenvolvimento de softw
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=c0m1x&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=c0m1x&theme=tokyonight&hide_border=true" />
 
 </div>
 
