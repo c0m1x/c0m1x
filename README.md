@@ -86,19 +86,19 @@ Estudante de Engenharia Informática com interesse em **desenvolvimento de softw
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=c0m1x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0m1x&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+![Followers](https://img.shields.io/github/followers/c0m1x?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/c0m1x?style=social)
+![Public Repos](https://img.shields.io/github/repos/c0m1x?style=social)
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+## Top Languages
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=c0m1x&theme=tokyonight&hide_border=true" />
+![Top Languages](https://img.shields.io/github/languages/top/c0m1x?theme=dark&label=Top%20Languages)
 
 </div>
 
