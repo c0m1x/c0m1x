@@ -6,7 +6,7 @@ Estudante de Engenharia Informática com interesse em **desenvolvimento de softw
 
 ## Tech Stack
 
-### 💻 Linguagens
+### Linguagens
 
 <div align="center">
 <table>
@@ -53,7 +53,7 @@ Estudante de Engenharia Informática com interesse em **desenvolvimento de softw
 </table>
 </div>
 
-### 🛠️ Ferramentas & Tecnologias
+### Ferramentas & Tecnologias
 
 <div align="center">
 <table>
@@ -80,7 +80,7 @@ Estudante de Engenharia Informática com interesse em **desenvolvimento de softw
 
 ---
 
-## 📊 Activity
+## Activity
 
 <div align="center">
 
