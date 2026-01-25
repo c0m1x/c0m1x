@@ -80,7 +80,7 @@ Estudante de Engenharia Informática com interesse em **desenvolvimento de softw
         <br><strong>VS Code</strong>
     </td>
     <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pinia/pinia-original.svg" width="50" />
+        <img src="https://raw.githubusercontent.com/vuejs/pinia/v2/packages/docs/public/logo.svg" width="50" />
         <br /><strong>Pinia</strong>
       </td>
       <td align="center" width="100">
